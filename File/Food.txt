@@ -1,0 +1,4 @@
+ID; FOODNAME; TYPEFOOD; CALO; PRICE; QUANTITY
+1; Bun bo; nuoc; 400.0; 45000; 0
+2; Bun bo; nuoc; 400.0; 45000; 15
+3; Bun bo; nuoc; 400.0; 45000; 17

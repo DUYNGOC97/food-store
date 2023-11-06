@@ -1,0 +1,2 @@
+ID; FOODNAME; TYPEFOOD; CALO; PRICE; QUANTITY
+1; Duyduy123; duy dinh; Duyngoc@124; dinh@gmail.com; 0837876678; o9

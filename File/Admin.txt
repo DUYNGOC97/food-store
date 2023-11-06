@@ -1,0 +1,3 @@
+ID; FOODNAME; TYPEFOOD; CALO; PRICE; QUANTITY
+1; Duyngoc123; duy ngoc; Duyngoc@12; a@gmail.com; 0837321123; u7
+2; Duyngoc123; duy ngoc; Duyngoc@12; a@gmail.com; 0837321123; u7
